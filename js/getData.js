@@ -13,7 +13,7 @@ function loadGalaxy(data) {
 	$.each(data, function(key, value) { 
 		// key=0 value={id: 3524, name: "Westerlund 2: Detail 2", news_name: "a"}
 		if(value.name === "Westerlund 2: Detail 2") {
-			getData("http://hubblesite.org/api/v3/image/" + value.id, function(data) {
+			getData("https://hubblesite.org/api/v3/image/" + value.id, function(data) {
 				console.log(data);
 				console.log(data.image_files[7].file_url);
 				file_url = data.image_files[7].file_url;
