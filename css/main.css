@@ -1,0 +1,90 @@
+#container{
+	width: 100px;
+	height: 100px;
+}
+
+#imgStar {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	display: none;
+}
+
+#startButton, #replayButton {
+	width: 200px;
+	height: 100px;
+	position: absolute;
+	top: 90%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	background-color: #FF5800 ; /*#445F57*/
+	border-radius: 50px;
+	border-color: transparent; /* 消掉button外框*/
+	display: flex;
+	justify-content: space-around;				
+}
+
+#icon {
+	width: 50px;
+	height: 50px;
+	position: relative;
+	
+}
+
+#startFont {
+	position: relative;
+	font-size: 36px;
+	font-weight: bolder;
+	color: black;
+	line-height: 50px;
+}
+
+#replayFont {
+	position: relative;
+	font-size: 36px;
+	font-weight: bolder;
+	color: black;
+	line-height: 50px;
+	margin-left: -30px;
+}
+
+/* 載入 Westerlund 2 的圖片 */
+#imgGalaxy {
+	width: 2.5vw;
+	height: 2.5vh;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	animation: imgGalaxy-scaleUp 8s forwards steps(300, end); /*ease-in-out*/
+	
+	border-top-left-radius: 50% 50%;
+	border-top-right-radius: 50% 50%;
+	border-bottom-right-radius: 50% 50%;
+	border-bottom-left-radius: 50% 50%;
+
+}
+/* 載入 Westerlund 2 的文字 */
+#textGalaxy {
+	width: 100vw;
+	height: 100px;
+	line-height: 50px;
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 36px;
+	color: Maroon; /*#FABF87*/
+	letter-spacing: 20px;
+	text-align: center;
+	font-weight: bolder;
+}
+
+@keyframes imgGalaxy-scaleUp {
+	0% {transform: scale(1, 1); opacity: 0.1;}
+	10% {transform: scale(5, 5); opacity: 0.2;}
+	/*25% {transform: scale(5, 5); opacity: 0.3;}*/
+	/*50% {transform: scale(15, 15); opacity: 0.3;}*/
+	/*75% {transform: scale(30, 30); opacity: 0.4;}*/
+	100% {transform: scale(58, 58); opacity: 0.8;}
+} 
