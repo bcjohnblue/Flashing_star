@@ -1,13 +1,13 @@
-## Motivation
-¤@¶}©l¬O¦]¬°·Q­n½m²ßajaxªºAPI¦ê±µ¡A§Ë¨ì¤@¥bÅÜ¦¨·Q°µ¥XÂI°Êµeªº®ÄªG¡C ³oÀ³¸Ó¤]ºâ¬O§Ú²Ä¤@­Ó¼g¦¨ªººô¯¸!
+ï»¿## Motivation
+ä¸€é–‹å§‹æ˜¯å› ç‚ºæƒ³è¦ç·´ç¿’ajaxçš„APIä¸²æ¥ï¼Œå¼„åˆ°ä¸€åŠè®Šæˆæƒ³åšå‡ºé»å‹•ç•«çš„æ•ˆæœã€‚ é€™æ‡‰è©²ä¹Ÿç®—æ˜¯æˆ‘ç¬¬ä¸€å€‹å¯«æˆçš„ç¶²ç«™!
 
 ## Reference
 
-1. ­I´º¹Ïªº¬P¨t±ÛÂà°Ñ¦Ò Codepen ªº§@ªÌ Renan Pupin ©Ò½s¼g
+1. èƒŒæ™¯åœ–çš„æ˜Ÿç³»æ—‹è½‰åƒè€ƒ Codepen çš„ä½œè€… Renan Pupin æ‰€ç·¨å¯«
 https://codepen.io/renanpupin/pen/wKGvBZ
 
-2. ­I´º¹ÏªºpsÃ¸»s
+2. èƒŒæ™¯åœ–çš„psç¹ªè£½
 https://www.youtube.com/watch?v=NxyH7Spb4Ls
 
-3. ³Ì«áªº¹Ï¤ù Westerlund 2 ¨Ó¦Û©ó HubbleSite
+3. æœ€å¾Œçš„åœ–ç‰‡ Westerlund 2 ä¾†è‡ªæ–¼ HubbleSite
 http://hubblesite.org/image/3524/gallery
