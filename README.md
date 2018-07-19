@@ -11,3 +11,7 @@ https://www.youtube.com/watch?v=NxyH7Spb4Ls
 
 3. 最後的圖片 Westerlund 2 來自於 HubbleSite
 http://hubblesite.org/image/3524/gallery
+
+## Unresolved
+Can't fixed this problem:
+This request has been blocked; the content must be served over HTTPS.
